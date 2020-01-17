@@ -1,3 +1,2 @@
 # Responsive-Web-Desing-Certification
-Se muestran los códigos pertenecientes a la certificación de freeCodeCamp. El objetivo es ir consiguiendo todas las certificaciones y convertirme en desarrollador full stack
-Puedes encontrar un mejor explicación en la wiki que se esta creando para este repositorio, (se puede poner enlace a ella?)
+En este repositorio a forma de apuntes personales para el estudio, se van a ir traduciendo y documentando la información y problemas para la consecución de la certificación de Diseño Web Adaptable que ofrece freeCodeCamp.org. Se dispone de una Wiki en la que se encuentran las explicaciones en profundidad.
