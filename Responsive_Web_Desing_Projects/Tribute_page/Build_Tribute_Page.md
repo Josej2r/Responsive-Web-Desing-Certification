@@ -6,17 +6,17 @@ Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CS
 
 __User Story#1:__ Mi página de homenaje debe tener un elemento con un id="main" correspondiente, que contiene todos los demás elementos. :white_check_mark:
 
-__User Story#2:__ Debería contener un elemento con un id="title" correspondiente,  que contiene una cadena de texto, que describa el tema de la página de tributo (por ejemplo, "Dr. Norman Borlaug").
+__User Story#2:__ Debería contener un elemento con un id="title" correspondiente,  que contiene una cadena de texto, que describa el tema de la página de tributo (por ejemplo, "Dr. Norman Borlaug").:white_check_mark:
 
-__User Story#3:__ Debería haber un elemento div con un id="img-div"-.
+__User Story#3:__ Debería haber un elemento div con un id="img-div"-.:white_check_mark:
 
-__User Story#4:__ Dentro del elemento img-div, debería ver un elemento img con su id="image" correspondiente.
+__User Story#4:__ Dentro del elemento img-div, debería ver un elemento img con su id="image" correspondiente.:white_check_mark:
 
-__User Story#5:__ Dentro del elemento img-div, debería tener un elemento con un id="img-camption" correspondiente que contiene contenido textual que describe la imagen que se muestra en img-div.
+__User Story#5:__ Dentro del elemento img-div, debería tener un elemento con un id="img-camption" correspondiente que contiene contenido textual que describe la imagen que se muestra en img-div.:white_check_mark:
 
-__User Sotry#6:__ Debería haber un elemento con un id="tribute-info" correspondiente, que contiene contenido textual que describe el tema de la página de tributo.
+__User Sotry#6:__ Debería haber un elemento con un id="tribute-info" correspondiente, que contiene contenido textual que describe el tema de la página de tributo.:white_check_mark:
 
-__User Story#7:__ Debería ver un elemento a con un id="link" correspondiente, que enlaza a un sitio externo que contiene la información adicional sobre el tema de la página. SUGERENCIA: debe asignar a su elemento un atrinuto target y configurarlo en _blank para que su enlace se abra en una nueva pestaño (es decir, target:="_blank")
+__User Story#7:__ Debería ver un elemento a con un id="link" correspondiente, que enlaza a un sitio externo que contiene la información adicional sobre el tema de la página. SUGERENCIA: debe asignar a su elemento un atrinuto target y configurarlo en _blank para que su enlace se abra en una nueva pestaño (es decir, target:="_blank"). :white_check_mark:
 
 __User Story#8:__ El elemento img debe cambiar de tamaño de manera recptiva, en relación con el ancho de su elemento padre, sin exceder su tamaño original.
 
