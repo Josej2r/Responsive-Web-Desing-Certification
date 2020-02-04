@@ -4,7 +4,7 @@ Cumplir con las siguientes historias de usuarios y obtener todas las pruebas par
 
 Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
-__User Story#1:__ Mi página de homenaje debe tener un elemento con un id="main" correspondiente, que contiene todos los demás elementos.
+__User Story#1:__ Mi página de homenaje debe tener un elemento con un id="main" correspondiente, que contiene todos los demás elementos. :white_check_mark:
 
 __User Story#2:__ Debería contener un elemento con un id="title" correspondiente,  que contiene una cadena de texto, que describa el tema de la página de tributo (por ejemplo, "Dr. Norman Borlaug").
 
