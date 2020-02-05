@@ -18,9 +18,9 @@ __User Sotry#6:__ Debería haber un elemento con un id="tribute-info" correspond
 
 __User Story#7:__ Debería ver un elemento a con un id="link" correspondiente, que enlaza a un sitio externo que contiene la información adicional sobre el tema de la página. SUGERENCIA: debe asignar a su elemento un atrinuto target y configurarlo en _blank para que su enlace se abra en una nueva pestaño (es decir, target:="_blank"). :white_check_mark:
 
-__User Story#8:__ El elemento img debe cambiar de tamaño de manera recptiva, en relación con el ancho de su elemento padre, sin exceder su tamaño original.
+__User Story#8:__ El elemento img debe cambiar de tamaño de manera recptiva, en relación con el ancho de su elemento padre, sin exceder su tamaño original. :white_check_mark:
 
-__User Story#9:__ El elemento img debe estar centrado dentro de su elemento padre.
+__User Story#9:__ El elemento img debe estar centrado dentro de su elemento padre. :white_check_mark:
 
 Puede construir su proyecto bifurcando este [CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). O puedes usar este enlace CDN para ejecutar las pruebas en cualquier entoro que desee: [https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js)
 
