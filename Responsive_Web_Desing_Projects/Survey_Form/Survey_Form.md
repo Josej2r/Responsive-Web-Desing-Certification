@@ -26,15 +26,15 @@ Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CS
 
  __User Story#11:__ Para los campos de entrada de nombre, correo electrónico y número, puedo ver el texto del marcador de posición que me da una descripción o instrucciones para cada campo. :white_check_mark:
 
- __User Story#12:__ Dentro del elemento de form, puedo seleccionar una opción de un menú despleglable que tiene un id="dropdown".
+ __User Story#12:__ Dentro del elemento de form, puedo seleccionar una opción de un menú despleglable que tiene un id="dropdown". :white_check_mark:
 
- __User Story#13:__ Dentro del elemento de form, puedo seleccionar un campo de uno o más grupos de botones de opción. Cada grupo debe agruparse utilizando el atributo name.
+ __User Story#13:__ Dentro del elemento de form, puedo seleccionar un campo de uno o más grupos de botones de opción. Cada grupo debe agruparse utilizando el atributo name.:white_check_mark:
 
- __User Story#14:__ Dentro del elemento de form, puedo seleccionar varios campos de un serie de casilas de verificación, cada una de las cuales debe tener un atributo de value.
+ __User Story#14:__ Dentro del elemento de form, puedo seleccionar varios campos de un serie de casilas de verificación, cada una de las cuales debe tener un atributo de value.:white_check_mark:
 
- __User Story#15:__ Dentro del elemento form, se me presenta un textarea al final para comentarios adicionales.
+ __User Story#15:__ Dentro del elemento form, se me presenta un textarea al final para comentarios adicionales. :white_check_mark:
 
- __User Story#16:__ Dentro del elemento de form, se me presenta un botón con un id="submit" para enviar todas mis entradas.
+ __User Story#16:__ Dentro del elemento de form, se me presenta un botón con un id="submit" para enviar todas mis entradas.:white_check_mark:
 
  Puede construir su proyecto bifurcando este [CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). O puedes usar este enlace CDN para ejecutar las pruebas en cualquier entoro que desee: [https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js)
 
