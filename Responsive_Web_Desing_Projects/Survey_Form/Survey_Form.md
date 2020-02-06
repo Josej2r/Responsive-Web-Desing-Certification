@@ -6,13 +6,13 @@ Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CS
 
  __User Story#1:__ Puedo ver un título con id="title" en texto de tamaño H1.:white_check_mark:
 
- __User Story#2:__ Puedo ver una breve explicación con id="description" en texto de tamaño P.:white_check_mark:
+ __User Story#2:__ Puedo ver una breve explicación con id="description" en texto de tamaño P.
 
- __User Story#3:__ Puedo ver un form con un id="survey-form".:white_check_mark:
+ __User Story#3:__ Puedo ver un form con un id="survey-form".
 
- __User Story#4:__ Dentro del elemento de form, debo ingresar mi nombre en un campo con id="name".:white_check_mark:
+ __User Story#4:__ Dentro del elemento de form, debo ingresar mi nombre en un campo con id="name".
 
- __User Story#5:__ Dentro del elemento de formulario, debo ingresar un correo electrónico en un campo con id="email".:white_check_mark:
+ __User Story#5:__ Dentro del elemento de formulario, debo ingresar un correo electrónico en un campo con id="email".
 
  __User Story#6:__ Si ingreso un correo electrónico que no está formateado correctamente, veré un error de validación HTML5. <!-- Lo hacemos con form-control-->
 
