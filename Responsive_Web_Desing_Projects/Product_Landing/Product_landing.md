@@ -1,4 +1,4 @@
-Crear una aplicación en CodePen.io que sea similar a esta:[https://codepen.io/freeCodeCamp/full/VPaoNP](https://codepen.io/freeCodeCamp/full/VPaoNP)
+Crear una aplicación en CodePen.io que sea similar a esta:[https://codepen.io/freeCodeCamp/full/RKRbwL](https://codepen.io/freeCodeCamp/full/RKRbwL)
 
 Cumplir con las siguientes User Story y obtener todas las pruebas para pasar. Dale tu propio estilo.
 
