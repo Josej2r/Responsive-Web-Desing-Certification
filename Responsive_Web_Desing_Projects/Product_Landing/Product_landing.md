@@ -14,25 +14,25 @@ __User Story#4:__ Puedo ver al menos tres elementos en los que se puede hacer cl
 
 --User Story#5:__  Cuando hago clic en el botón .nav-link en el elemento nav, me lleva a la sección correspondiente de la página destino. :white_check_mark:
 
-__User Story#6:__ Puedo ver un video de producto incrustado con id="video".
+__User Story#6:__ Puedo ver un video de producto incrustado con id="video". :white_check_mark:
 
-__User Story#7:__ Mi página de landing tiene un elemento de formulario con un id="form" correspondiente.
+__User Story#7:__ Mi página de landing tiene un elemento de formulario con un id="form" correspondiente. :white_check_mark:
 
-__User Story#8:__ Dentro del formulario, hay un input con un id="email" donde puedo ingresar una dirección de correo electrónico.
+__User Story#8:__ Dentro del formulario, hay un input con un id="email" donde puedo ingresar una dirección de correo electrónico. :white_check_mark:
 
-__User Story#9:__ El campo de entrada #email, debe tener placeholder para que el usuario sepa para que sirve el campo.
+__User Story#9:__ El campo de entrada #email, debe tener placeholder para que el usuario sepa para que sirve el campo. :white_check_mark:
 
-__User Story#10:__ El campo de entrada #email utiliza validación HTML5 para confirmar que el texto ingresado es un dirección de correo electrónico.
+__User Story#10:__ El campo de entrada #email utiliza validación HTML5 para confirmar que el texto ingresado es un dirección de correo electrónico. :white_check_mark:
 
-__User Story#11:__ Dentro del formulario, hay un input para enviar el contenido con un id="submit" correspondiente.
+__User Story#11:__ Dentro del formulario, hay un input para enviar el contenido con un id="submit" correspondiente. :white_check_mark:
 
-__User Story#12:__ Cuando haga clic en el elemento #submit, el correo electrónico se envía a una página estática (use esta URL simulada:https://www.freecodecamp.com/email-submit ) que confirma que se ingresó la dirección de correo electrónico y que se publicó con éxito.
+__User Story#12:__ Cuando haga clic en el elemento #submit, el correo electrónico se envía a una página estática (use esta URL simulada:https://www.freecodecamp.com/email-submit ) que confirma que se ingresó la dirección de correo electrónico y que se publicó con éxito. :white_check_mark:
 
 __User Story#13:__ La barra de navegación, navbar siempre debe estar en la parte superior de la ventana gráfica.
 
-__User Story#14:__ La página de landing debe tener almenos una consulta de medios.
+__User Story#14:__ La página de landing debe tener almenos una consulta de medios. :white_check_mark:
 
-__User Story#15:__ La página de landing de mi producto debe utilizar CSS flexbox al menos una vez.
+__User Story#15:__ La página de landing de mi producto debe utilizar CSS flexbox al menos una vez. :white_check_mark:
 
 Puede construir su proyecto bifurcando este [CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). O puedes usar este enlace CDN para ejecutar las pruebas en cualquier entoro que desee: [https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js)
 
