@@ -4,17 +4,17 @@ Cumplir con las siguientes User Story y obtener todas las pruebas para pasar. Da
 
 Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
-__User Story#1:__ Puedo ver un elemento principal con id="main-doc" correspondiente, que contiene el contenido principal de la página (documentación técnica).
+__User Story#1:__ Puedo ver un elemento principal con id="main-doc" correspondiente, que contiene el contenido principal de la página (documentación técnica). :white_check_mark:
 
-__User Story#2:__ Dentro del elemento #main-doc, puedo ver varios elementos de ``section``, cada uno con una clase ``main-section``. Debe haber un mínimo de 5.
+__User Story#2:__ Dentro del elemento #main-doc, puedo ver varios elementos de ``section``, cada uno con una clase ``main-section``. Debe haber un mínimo de 5. :white_check_mark:
 
-__User Story#3:__  El primer elemento dentro de cada ``.main-section`` debe ser un elemento de ``header`` que contenga texto que describa el tema de esa sección.
+__User Story#3:__  El primer elemento dentro de cada ``.main-section`` debe ser un elemento de ``header`` que contenga texto que describa el tema de esa sección. :white_check_mark:
 
-__User Story#4:__ Cada ``section`` con la clase ``main-section`` debe tener una id que corresponda con el texto de cada encabezado contenido dentro de ella. Cualquier espacio debe reemplazarse con guiones bajos (por ejemplo, la sección que contiene el encabezado "JavaScript y Java" debe tener un id="JavaScript_and_Java" correspondiente).
+__User Story#4:__ Cada ``section`` con la clase ``main-section`` debe tener una id que corresponda con el texto de cada encabezado contenido dentro de ella. Cualquier espacio debe reemplazarse con guiones bajos (por ejemplo, la sección que contiene el encabezado "JavaScript y Java" debe tener un id="JavaScript_and_Java" correspondiente). :white_check_mark:
 
-__User Story#5:__ Los elementos ``.main-section`` deben contener al menos 10 elementos p en total (no cada uno).
+__User Story#5:__ Los elementos ``.main-section`` deben contener al menos 10 elementos p en total (no cada uno). :white_check_mark:
 
-__User Story#6:__ Los elementos de la ``.main-section`` deben contener al menos 5 elemento de código en total, no cada uno.
+__User Story#6:__ Los elementos de la ``.main-section`` deben contener al menos 5 elemento de código en total, no cada uno. :white_check_mark:
 
 __User Story#7:__ Los elementos de la ``.main-section`` deben contener al menos 5 elemento ``li`` en total, no cada uno.
 
