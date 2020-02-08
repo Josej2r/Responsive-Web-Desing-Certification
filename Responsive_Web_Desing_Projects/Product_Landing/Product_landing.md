@@ -10,9 +10,9 @@ __User Story#2:__ Puedo ver una imagen dentro del ``header`` con un id="header-i
 
 __User Story#3:__ Dentro del elemento #header puedo ver un elemento de ``nav`` con un id="nav-bar". :white_check_mark:
 
-__User Story#4:__ Puedo ver al menos tres elementos en los que se puede hacer clic dentro del elemento ``nav`` con la clase ``nav-link``.
+__User Story#4:__ Puedo ver al menos tres elementos en los que se puede hacer clic dentro del elemento ``nav`` con la clase ``nav-link``. :white_check_mark:
 
---User Story#5:__  Cuando hago clic en el botón .nav-link en el elemento nav, me lleva a la sección correspondiente de la página destino.
+--User Story#5:__  Cuando hago clic en el botón .nav-link en el elemento nav, me lleva a la sección correspondiente de la página destino. :white_check_mark:
 
 __User Story#6:__ Puedo ver un video de producto incrustado con id="video".
 
