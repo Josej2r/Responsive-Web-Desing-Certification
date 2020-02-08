@@ -4,11 +4,11 @@ Cumplir con las siguientes User Story y obtener todas las pruebas para pasar. Da
 
 Puede usar HTML, JavaScript y CSS para completar este proyecto. Se recomienda CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
-__User Story#1:__ La página Landing debe tener un elemento ``header`` con un id="header".
+__User Story#1:__ La página Landing debe tener un elemento ``header`` con un id="header". :white_check_mark:
 
-__User Story#2:__ Puedo ver una imagen dentro del ``header`` con un id="header-img". El logotipo de una empresa sería una buena imagen aquí.
+__User Story#2:__ Puedo ver una imagen dentro del ``header`` con un id="header-img". El logotipo de una empresa sería una buena imagen aquí. :white_check_mark:
 
-__User Story#3:__ Dentro del elemento #header puedo ver un elemento de ``nav`` con un id="nav-bar".
+__User Story#3:__ Dentro del elemento #header puedo ver un elemento de ``nav`` con un id="nav-bar". :white_check_mark:
 
 __User Story#4:__ Puedo ver al menos tres elementos en los que se puede hacer clic dentro del elemento ``nav`` con la clase ``nav-link``.
 
