@@ -9,7 +9,7 @@ CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y
 debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
 __User Story#1:__ Mi portfolio debe tener una sección de bienvenida con un id de
-``welcome-section.
+``welcome-section```.
 
 __User Story#2:__ La sección de bienvenida debe tener un elemento h1 que contenga
 texto.
@@ -30,7 +30,7 @@ __User Story#7:__ La barra de navegación debe contener al menos un enlace en el
 pueda hacer clic para navegar a diferentes secciones de la página.
 
 __User Story#8:__  Mi portfolio debe tener un enlace con una id de ``profile-link``
-, que abre mi perfil de GitHub p FCC en una nueva pestaña.
+, que abre mi perfil de GitHub o FCC en una nueva pestaña.
 
 __User Story#9:__ Mi portfolio debe tener al menos una consulta de medios.
 
