@@ -17,7 +17,7 @@ texto.
 __User Story#3:__ Mi portfolio debe tener una sección  de proyectos con un id de
 ``projects``.
 
-__ User Story#4:__ La sección de proyectos debe contener al menos un elemento
+__User Story#4:__ La sección de proyectos debe contener al menos un elemento
 con una clase de ``project-title`` para contener un proyecto.
 
 __User Story#5:__ La sección de proyectos debe contener al menos un enlace a un
