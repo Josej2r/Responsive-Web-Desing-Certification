@@ -24,21 +24,21 @@ __User Story#5:__ La sección de proyectos debe contener al menos un enlace a un
 proyecto. :white_check_mark:
 
 __User Story#6:__ Mi portfolio debe tener una barra de navegación con una id de
-navbar.
+navbar.:white_check_mark:
 
 __User Story#7:__ La barra de navegación debe contener al menos un enlace en el
-pueda hacer clic para navegar a diferentes secciones de la página.
+pueda hacer clic para navegar a diferentes secciones de la página.:white_check_mark:
 
 __User Story#8:__  Mi portfolio debe tener un enlace con una id de ``profile-link``
-, que abre mi perfil de GitHub o FCC en una nueva pestaña.
+, que abre mi perfil de GitHub o FCC en una nueva pestaña. :white_check_mark:
 
-__User Story#9:__ Mi portfolio debe tener al menos una consulta de medios.
+__User Story#9:__ Mi portfolio debe tener al menos una consulta de medios.:white_check_mark:
 
 __User Story#10:__ La altura de la sección de bienvenida debe ser igual a la altura
-de la venta gráfica.
+de la venta gráfica.:white_check_mark:
 
 __User Story#11:__ La barra de navegación siempre debe estar en la parte superior
-de la venta gráfica.
+de la venta gráfica.:white_check_mark:
 
 
 Puede construir su proyecto bifurcando este [CodePen pen](https://codepen.io/freeCodeCamp/pen/MJjpwO). O puedes usar este enlace CDN para ejecutar las pruebas en cualquier entoro que desee: [https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js)
