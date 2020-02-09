@@ -9,7 +9,7 @@ CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y
 debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
 __User Story#1:__ Mi portfolio debe tener una sección de bienvenida con un id de
-``welcome-section```.
+``welcome-section``.
 
 __User Story#2:__ La sección de bienvenida debe tener un elemento h1 que contenga
 texto.
