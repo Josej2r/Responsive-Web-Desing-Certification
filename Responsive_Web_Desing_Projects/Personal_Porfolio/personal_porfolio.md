@@ -9,19 +9,19 @@ CSS simple porque eso es lo que en las lecciones se ha cubierto hasta ahora y
 debes practicas un poco con CSS simple. Puede usar Bootstrap o SASS si lo desea.
 
 __User Story#1:__ Mi portfolio debe tener una sección de bienvenida con un id de
-``welcome-section``.
+``welcome-section``. :white_check_mark:
 
 __User Story#2:__ La sección de bienvenida debe tener un elemento h1 que contenga
-texto.
+texto. :white_check_mark:
 
 __User Story#3:__ Mi portfolio debe tener una sección  de proyectos con un id de
-``projects``.
+``projects``.:white_check_mark:
 
 __User Story#4:__ La sección de proyectos debe contener al menos un elemento
-con una clase de ``project-title`` para contener un proyecto.
+con una clase de ``project-title`` para contener un proyecto. :white_check_mark:
 
 __User Story#5:__ La sección de proyectos debe contener al menos un enlace a un
-proyecto.
+proyecto. :white_check_mark:
 
 __User Story#6:__ Mi portfolio debe tener una barra de navegación con una id de
 navbar.
